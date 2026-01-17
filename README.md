@@ -68,7 +68,13 @@
 ### 📬 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/david-kovalov-472512329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" /></a>
-<a href="https://t.me/@i_v1tyx" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="40" /></a>
-<a href="mailto:kovalovdavid92@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-3693F3?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" height="40" /></a>
+  <a href="https://www.linkedin.com/in/david-kovalov-472512329" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://t.me/i_v1tyx" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="40" />
+  </a>
+  <a href="mailto:kovalovdavid92@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Email-3693F3?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" height="40" />
+  </a>
 </p>
