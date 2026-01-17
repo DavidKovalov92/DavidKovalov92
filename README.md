@@ -21,7 +21,7 @@
 - 💼 **Experience:** 1+ years in Backend development.
 - 🛠️ **Current Focus:** Scaling infrastructures with **AWS** and mastering **FastAPI**.
 - ♟️ **Personal:** **CS Foundations & Math** — deeply interested in the mathematical logic behind algorithms and building a strong theoretical base for complex systems.
-- 🎓 **Education:** Computer Science at **Lviv Polytechnic National University** (2024 - 2029).
+- 🎓 **Education:** Computer Science at **Lviv Polytechnic National University** (2024 - 2028).
 - ⚡ **Availability:** Open for Full-time roles.
 
 ---
@@ -55,14 +55,13 @@
 
 ---
 
-### 📈 Professional Experience Highlights
+### 🏆 Achievements: Independent Contractor 
+*(Oct 2024 — Present)*
 
-**Independent Contractor / Freelance Developer** *(Nov 2024 — Present)*
-
-- **Parser Development:** Built and scaled **10+ scrapers** (Selenium/Playwright), automating data extraction from **50+ sources**.
-- **Legacy Systems:** Took ownership of a large Django project, ensuring **99.9% uptime**.
-- **Optimization:** Improved request processing speed by **15%** through smarter SQL queries and indexing.
-- **Infrastructure:** Configured secure media storage with **AWS S3** and automated deployment with **Docker**.
+- **API Design:** Architected and deployed RESTful APIs using **FastAPI** and **Django**.
+- **Scalable Architecture:** created backend systems to support asynchronous task processing with **Celery** and **Redis**, ensuring high availability and system resilience under heavy loads.
+- **Query Optimization:** Achieved a **15% boost** in request processing speed through advanced **PostgreSQL** indexing and the optimization of complex ORM query patterns.
+- **Infrastructure & DevOps:** Orchestrated containerized environments using **Docker Compose** and automated database schema evolutions with **Alembic**.
 
 ---
 
